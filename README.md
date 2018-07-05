@@ -31,7 +31,7 @@ default_xml_socket   : External XMLTV 사용시 xmltv.sock가 있는 경로로 �
 </pre>
 
 ### Channel.json
-Channel.json 파일의 최신버전은 https://github.com/wonipapa/Channel.json 에서 다운받을 수 있다.  
+Channel.json 파일의 최신버전은 https://github.com/ityunter/Channel.json 에서 다운받을 수 있다.  
 Channel.json 파일을 텍스트 편집기로 열어보면 각채널별 정보가 들어 있다.  
 
 ## 옵션 소개
